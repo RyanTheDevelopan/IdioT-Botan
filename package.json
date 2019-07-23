@@ -1,0 +1,22 @@
+{
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "name": "ryan-the-botan",
+  "version": "1.0.0",
+  "description": "A bot made to do many things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ryan Cortes#0138",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.13.8",
+    "discord-leveling": "^1.0.3",
+    "discord.js": "^11.4.2",
+    "dotenv": "^8.0.0"
+  }
+}
